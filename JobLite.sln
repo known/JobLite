@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JobLite", "JobLite\JobLite.csproj", "{750D8DD6-F9A1-4DD3-9425-110C53711A8A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JobLite.Service", "JobLite.Service\JobLite.Service.csproj", "{294855B2-19F4-4447-B053-DB5C8CFFB695}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{750D8DD6-F9A1-4DD3-9425-110C53711A8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{750D8DD6-F9A1-4DD3-9425-110C53711A8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{750D8DD6-F9A1-4DD3-9425-110C53711A8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{750D8DD6-F9A1-4DD3-9425-110C53711A8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{294855B2-19F4-4447-B053-DB5C8CFFB695}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{294855B2-19F4-4447-B053-DB5C8CFFB695}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{294855B2-19F4-4447-B053-DB5C8CFFB695}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{294855B2-19F4-4447-B053-DB5C8CFFB695}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF98B6C2-A8CC-4850-BB46-1E3F7E70BBA4}
+	EndGlobalSection
+EndGlobal
